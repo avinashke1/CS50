@@ -1,0 +1,1 @@
+Just execute 'FinalProject.py' and give your values in numbers.
